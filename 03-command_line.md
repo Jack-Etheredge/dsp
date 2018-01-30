@@ -20,16 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > * ls # shows current working directory path
-> > * mkdir # creating a directory
-> > * rm # deleting a directory
-> > * touch <filename> # creating a file using `touch` command
-> > * rm <filename> # deleting a file
-> > * mv <old-filename> <new-filename> # renaming a file
-> > * ls -a # listing hidden files
-> > * cp <filename> <new-location> # copying a file from one directory to another
-> > * echo <command or variable name> # print the output of a command without running it or return the value of a variable 
-> > * $variable <value> # assign a value to a variable name (in this case '$variable')
+> > * `ls` # shows current working directory path
+> > * `mkdir` # creating a directory
+> > * `rm` # deleting a directory
+> > * `touch <filename>` # creating a file using `touch` command
+> > * `rm <filename>` # deleting a file
+> > * `mv <old-filename> <new-filename>` # renaming a file
+> > * `ls -a` # listing hidden files
+> > * `cp <filename> <new-location>` # copying a file from one directory to another
+> > * `echo <command or variable name>` # print the output of a command without running it or return the value of a variable 
+> > * `$variable <value>` # assign a value to a variable name (in this case '$variable')
 
 ---
 
@@ -44,7 +44,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * `ls` # lists files in current directory  
+> > * `ls -a`  # Displays all files (even hidden ones) 
+> > * `ls -l`  # Displays the long format listing (details) 
+> > * `ls -lh`  # show details and print file sizes in human readable format 
+> > * `ls -lah` #  show details of all files (including hidden ones) and print file sizes in human readable format
+> > * `ls -t` # sort the list of files by modification time 
+> > * `ls -Glp` # Displays the long format listing (details) with colorized output, Displays directories with /  
+
 
 ---
 
