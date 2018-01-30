@@ -20,16 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > ls # shows current working directory path
-> > mkdir # creating a directory
-> > rm # deleting a directory
-> > touch <filename> # creating a file using `touch` command
-> > rm <filename> # deleting a file
-> > mv <old-filename> <new-filename> # renaming a file
-> > ls -a # listing hidden files
-> > cp <filename> <new-location> # copying a file from one directory to another
-> > echo <command or variable name> # print the output of a command without running it or return the value of a variable 
-> > $variable <value> # assign a value to a variable name (in this case '$variable')
+> > * ls # shows current working directory path
+> > * mkdir # creating a directory
+> > * rm # deleting a directory
+> > * touch <filename> # creating a file using `touch` command
+> > * rm <filename> # deleting a file
+> > * mv <old-filename> <new-filename> # renaming a file
+> > * ls -a # listing hidden files
+> > * cp <filename> <new-location> # copying a file from one directory to another
+> > * echo <command or variable name> # print the output of a command without running it or return the value of a variable 
+> > * $variable <value> # assign a value to a variable name (in this case '$variable')
 
 ---
 
