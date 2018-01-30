@@ -50,7 +50,7 @@ What do the following commands do:
 > > * `ls -lh`  # show details and print file sizes in human readable format 
 > > * `ls -lah` #  show details of all files (including hidden ones) and print file sizes in human readable format
 > > * `ls -t` # sort the list of files by modification time 
-> > * `ls -Glp` # Displays the long format listing (details) with colorized output, Displays directories with /  
+> > * `ls -Glp` # Displays the long format listing (details) without group name, Displays directories with /  
 
 
 ---
@@ -59,7 +59,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * `ls -R` # recursively list subdirectories
+> > * `ls -d` # Displays only directories.
+> > * `ls -u` # Displays files sorted by the file access time.
+> > * `ls -g` # Displays the long format listing, but exclude the owner name.
+> > * `ls -S` # Sort by file size
 
 ---
 
