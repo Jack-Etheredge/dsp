@@ -71,7 +71,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > `xargs` works sort of like pipe (`|`). It can also parallel process jobs. Additionally, it is a way to avoid a "too many arguments" error possible from passing the output of one command into another command. It executes commands once for each input line/argument and defaults to `echo` if no command is specified. I still don't understand `xargs` super well.
+> > `xargs` works sort of like pipe (`|`). It can also parallel process jobs. Additionally, it is a way to avoid a "too many arguments" error possible from passing the output of one command into another command. It executes commands once for each input line/argument and defaults to `echo` if no command is specified. I still don't understand `xargs` super well.  
 >> find -name "*.txt" | xargs grep "blah" # This will use grep to search the .txt files in the directory for "blah".
 
  
